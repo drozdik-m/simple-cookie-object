@@ -1,0 +1,30 @@
+{
+  "author": "Martin Drozdík <ja@martin-drozdik.cz> (http://martin-drozdik.cz)",
+  "bugs": {
+    "url": "https://github.com/drozdik-m/simple-cookie-object/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "I am a simple man. When I need to handle front-end cookies, I want simple, light and efficient class. I did not find one, so I made one.",
+  "homepage": "https://github.com/drozdik-m/simple-cookie-object#readme",
+  "keywords": [
+    "cookies",
+    "front-end",
+    "light",
+    "easy",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "license": "GPL-3.0-or-later",
+  "main": "dist/src/cookie.js",
+  "name": "simple-cookie-object",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drozdik-m/simple-cookie-object.git"
+  },
+  "scripts": {
+    "test": "echo \"Test!\""
+  },
+  "typings": "dist/src/cookie.d.ts",
+  "version": "1.0.2"
+}
